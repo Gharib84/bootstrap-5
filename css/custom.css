@@ -1,0 +1,63 @@
+/* X-Small devices (portrait phones, less than 576px)*/
+@media (max-width: 35.999rem) {
+    body {
+    
+        color: #000;
+        overflow-x: hidden;
+        box-sizing: border-box;
+    }
+    
+}
+
+
+
+/*Small devices (landscape phones, less than 768px)*/
+@media (max-width: 47.999rem) { 
+    body {
+    
+        color: #000;
+        overflow-x: hidden;
+        box-sizing: border-box;
+    }
+    
+}
+
+
+/* Medium devices (tablets, less than 992px)*/
+@media (max-width: 61.999rem) {
+    body {
+    
+        color: #000;
+        overflow-x: hidden;
+        box-sizing: border-box;
+    }
+    
+}
+
+
+
+/*large device */
+
+body {
+    
+    color: #000;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+.super-el {
+    position: relative;
+    top: 10px;
+    margin-left: 1rem;
+}
+
+.fonts-heading {
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+}
+
+.cards-footer {
+    position: relative;
+    top: 3px;
+    margin-left: 1rem;
+}
